@@ -1,1 +1,1 @@
-# -blog-giscus-comments
+# blog-giscus-comments
